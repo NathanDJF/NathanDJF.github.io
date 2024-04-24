@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,300&display=swap');
+
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: -21px;
+}
+
+.top {
+    background-color:darkorange;
+    font-family: 'Montserrat', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-width: 10px;
+}
+
+.center {
+    text-align:center;
+}
+
+.about-me {
+    background-color:skyblue;
+    font-family: 'Montserrat', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    color:black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding: 30px;
+}
+
+.experiences {
+    background-color:navy;
+    font-family: 'Montserrat', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+.experiences .codeorg {
+    padding-top: 50px;
+}
