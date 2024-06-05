@@ -65,6 +65,24 @@ body {
     padding-top: 50px;
 }
 
+.skills {
+    background-color: #c53838;
+    font-family: 'Montserrat', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    color:black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding: 30px;
+}
+
+.skills h2 {
+    font-size: 37px;
+    text-align: start;
+}
+
 .projects {
     background-color: rgb(129, 129, 129);
     font-family: 'Montserrat', sans-serif;
